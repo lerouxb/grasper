@@ -1,0 +1,16 @@
+{
+  "name": "grasper",
+  "version": "1.0.0",
+  "description": "Stream all GitHub users or organisations.",
+  "main": "lib/grasper.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Le Roux Bodenstein <lerouxb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^2.2.0",
+    "event-stream": "^3.3.2",
+    "tentacles": "^0.3.2"
+  }
+}
